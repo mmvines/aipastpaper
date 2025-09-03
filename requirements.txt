@@ -1,0 +1,6 @@
+streamlit
+pymongo
+pymupdf
+requests
+stripe
+openai
